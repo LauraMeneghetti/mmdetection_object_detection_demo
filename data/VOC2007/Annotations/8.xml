@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>8.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\8.jpg</path>
+	<path>/u/l/lmeneghe/Laura/mmdetection_object_detection_demo/data/VOC2007/Annotations/8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,111 +12,111 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>Inclined_dish</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>407</xmin>
-			<ymin>161</ymin>
-			<xmax>529</xmax>
-			<ymax>291</ymax>
+			<xmin>248</xmin>
+			<ymin>131</ymin>
+			<xmax>298</xmax>
+			<ymax>261</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>Inclined_dish</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>491</xmin>
-			<ymin>218</ymin>
-			<xmax>649</xmax>
-			<ymax>346</ymax>
+			<xmin>241</xmin>
+			<ymin>274</ymin>
+			<xmax>291</xmax>
+			<ymax>406</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>Inclined_dish</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>657</xmin>
-			<ymin>244</ymin>
-			<xmax>790</xmax>
-			<ymax>369</ymax>
+			<xmin>455</xmin>
+			<ymin>123</ymin>
+			<xmax>544</xmax>
+			<ymax>320</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>Inclined_dish</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>49</xmin>
-			<ymin>267</ymin>
-			<xmax>210</xmax>
-			<ymax>373</ymax>
+			<xmin>453</xmin>
+			<ymin>268</ymin>
+			<xmax>516</xmax>
+			<ymax>463</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>Dish</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>233</xmin>
-			<ymin>264</ymin>
-			<xmax>403</xmax>
-			<ymax>358</ymax>
+			<xmin>409</xmin>
+			<ymin>226</ymin>
+			<xmax>470</xmax>
+			<ymax>432</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>Dish</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>251</xmin>
-			<ymin>407</ymin>
-			<xmax>372</xmax>
-			<ymax>559</ymax>
+			<xmin>352</xmin>
+			<ymin>284</ymin>
+			<xmax>385</xmax>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>Dish</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>245</xmin>
-			<ymin>92</ymin>
+			<xmin>358</xmin>
+			<ymin>120</ymin>
+			<xmax>404</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>300</ymin>
 			<xmax>326</xmax>
-			<ymax>216</ymax>
+			<ymax>454</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>Dish</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>400</xmin>
-			<ymin>320</ymin>
-			<xmax>476</xmax>
-			<ymax>394</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>379</xmin>
-			<ymin>487</ymin>
-			<xmax>459</xmax>
-			<ymax>545</ymax>
+			<xmin>302</xmin>
+			<ymin>120</ymin>
+			<xmax>333</xmax>
+			<ymax>268</ymax>
 		</bndbox>
 	</object>
 </annotation>
