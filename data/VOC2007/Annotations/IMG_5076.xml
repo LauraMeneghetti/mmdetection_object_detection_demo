@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Foto_lab</folder>
+	<filename>IMG_5076.Jjpg</filename>
+	<path>/u/l/lmeneghe/Laura/mmdetection_object_detection_demo/foto_lab_new/VOC2007/Annotations/IMG_5076.Jjpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>150</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>33</ymin>
+			<xmax>128</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>
