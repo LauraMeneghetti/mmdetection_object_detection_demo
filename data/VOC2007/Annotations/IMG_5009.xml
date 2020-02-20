@@ -1,13 +1,13 @@
 <annotation>
 	<folder>Foto_lab</folder>
 	<filename>IMG_5009.Jjpg</filename>
-	<path>/u/l/lmeneghe/Laura/mmdetection_object_detection_demo/foto_lab_new/VOC2007/Annotations/IMG_5009.Jjpg</path>
+	<path>/u/l/lmeneghe/Laura/mmdetection_object_detection_demo/data/VOC2007/Annotations/IMG_5009.Jjpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>200</width>
-		<height>150</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>61</xmin>
-			<ymin>92</ymin>
-			<xmax>87</xmax>
-			<ymax>109</ymax>
+			<xmin>242</xmin>
+			<ymin>369</ymin>
+			<xmax>349</xmax>
+			<ymax>434</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>59</ymin>
-			<xmax>57</xmax>
-			<ymax>73</ymax>
+			<xmin>84</xmin>
+			<ymin>234</ymin>
+			<xmax>229</xmax>
+			<ymax>290</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>19</xmin>
-			<ymin>38</ymin>
-			<xmax>55</xmax>
-			<ymax>57</ymax>
+			<xmin>76</xmin>
+			<ymin>151</ymin>
+			<xmax>221</xmax>
+			<ymax>228</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>89</xmin>
-			<ymin>75</ymin>
-			<xmax>117</xmax>
-			<ymax>89</ymax>
+			<xmin>355</xmin>
+			<ymin>301</ymin>
+			<xmax>468</xmax>
+			<ymax>354</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>116</xmin>
-			<ymin>109</ymin>
-			<xmax>144</xmax>
-			<ymax>129</ymax>
+			<xmin>462</xmin>
+			<ymin>436</ymin>
+			<xmax>574</xmax>
+			<ymax>515</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>120</xmin>
-			<ymin>92</ymin>
-			<xmax>145</xmax>
-			<ymax>109</ymax>
+			<xmin>479</xmin>
+			<ymin>366</ymin>
+			<xmax>580</xmax>
+			<ymax>436</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>119</xmin>
-			<ymin>74</ymin>
-			<xmax>141</xmax>
-			<ymax>89</ymax>
+			<xmin>476</xmin>
+			<ymin>297</ymin>
+			<xmax>565</xmax>
+			<ymax>355</ymax>
 		</bndbox>
 	</object>
 </annotation>
